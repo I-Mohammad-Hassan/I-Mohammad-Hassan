@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammad Hassan
 
-### 📊 Data Analyst | MIS Reporting | Excel | SQL | Power BI | Python
+### 📊 Data Analyst | Excel | SQL | Power BI | Python
 
 I’m an aspiring **Data Analytics professional** passionate about transforming raw data into **actionable insights, interactive dashboards, and business-ready reports**.
 
@@ -11,7 +11,6 @@ I combine **Excel, Power Query, SQL, Power BI, and Python** to analyze data, aut
 ## 🚀 What I Do
 
 * 📊 **Data Analysis** — Explore data, identify trends, patterns, and business insights
-* 📑 **MIS Reporting** — Create structured, accurate, and management-ready reports
 * 📈 **Dashboard Development** — Build interactive dashboards using Excel and Power BI
 * 🧹 **Data Cleaning & Transformation** — Prepare and transform raw data using Power Query
 * 🗄️ **SQL Analysis** — Extract, filter, join, aggregate, and analyze business data
@@ -52,7 +51,6 @@ I combine **Excel, Power Query, SQL, Power BI, and Python** to analyze data, aut
 ### 🔧 Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
@@ -100,15 +98,15 @@ A practical **Power Query automation project** designed to combine multiple Exce
 
 ```text
 Advanced Excel
-      ↓
+     ↓
 Power Query
-      ↓
+     ↓
 SQL & Database Analysis
-      ↓
+     ↓
 Power BI
-      ↓
+     ↓
 Python for Data Analysis
-      ↓
+     ↓
 Advanced Analytics & Automation
 ```
 
@@ -123,7 +121,6 @@ I’m looking for opportunities where I can use data to support **business repor
 ### Roles I'm Targeting
 
 * 📊 Data Analyst
-* 📑 MIS Executive
 * 📑 MIS Analyst
 * 📈 Reporting Analyst
 * 🗄️ SQL / Data Analyst
@@ -134,8 +131,8 @@ I’m looking for opportunities where I can use data to support **business repor
 # 📈 GitHub Profile Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Md-Hassan73&show_icons=true&hide=commits,prs,issues,contribs&hide_rank=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Profile%20Stats"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=I-Mohammad-Hassan&show_icons=true&hide=commits,prs,issues,contribs&hide_rank=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Profile%20Stats"
     alt="GitHub Profile Stats"
   />
 </p>
@@ -146,15 +143,15 @@ I’m looking for opportunities where I can use data to support **business repor
 
 <p align="left">
 
-  <a href="https://github.com/Md-Hassan73">
-    <img 
+  <a href="https://github.com/I-Mohammad-Hassan">
+    <img
       src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub Profile"
     />
   </a>
 
   <a href="https://www.linkedin.com/in/mohammad-hassan-76b415359/">
-    <img 
+    <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn Profile"
     />
